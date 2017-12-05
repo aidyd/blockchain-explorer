@@ -31,7 +31,7 @@ Hyperledger Explorer works with Hyperledger Fabric 1.0.  Install the following s
 ## Clone Repository
 
 Clone this repository to get the latest using the following command.
-1. `git clone https://github.com/hyperledger/blockchain-explorer.git`
+1. `git clone https://github.com/aidyd/blockchain-explorer.git`
 2. `cd blockchain-explorer`
 
 ## Database setup
